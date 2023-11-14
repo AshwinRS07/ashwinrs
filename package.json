@@ -17,5 +17,8 @@
     "url": "https://github.com/AshwinRS07/ashwinrs/issues"
   },
   "homepage": "https://github.com/AshwinRS07/ashwinrs#readme",
-  "bin": "./cli.js"
+  "bin": "./cli.js",
+  "dependencies": {
+    "prettyjson": "^1.2.5"
+  }
 }
